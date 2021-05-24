@@ -14,12 +14,12 @@ author: Ghanendra
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
   Projects: "projects"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
-  Home: "https://ghanendra.singh.io"
+  # Home: "https://ghanendra.singh.io"
 
 # --- Logo --- #
 
@@ -41,9 +41,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "22ghanendra@gmail.com"
-  facebook: deanattali
-  github: "https://github.com/Ghanendra19213"
-  twitter: daattali
+#  facebook: deanattali
+#  github: "https://github.com/Ghanendra19213"
+#  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -71,11 +71,11 @@ social-network-links:
 # --- General options --- #
 
 # Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
+# share-links-active:
+#   twitter: true
+#   facebook: true
+#   linkedin: true
+#   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
